@@ -2,6 +2,7 @@
 .idea/
 *.iml
 out/
+.idea_modules/
 
 # Compiled class files
 *.class
@@ -32,3 +33,10 @@ hs_err_pid*
 
 # Windows
 Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.bak
+*.swn
