@@ -1,6 +1,5 @@
 package Lab;
 import java.util.*;
-import java.io.*;
 
 public class JavaCollectionsLab {
     public static void main(String[] args) {
